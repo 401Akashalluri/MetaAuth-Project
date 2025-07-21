@@ -52,17 +52,15 @@ Follow these steps to get the project running locally:
 
 Clone the repository:
 
-Bash
-
 git clone https://github.com/401Akashalluri/MetaAuth-Project.git
 Navigate to the project directory:
 
-Bash
-
 cd MetaAuth-Project
-Install backend dependencies:
 
-Bash
+![Quick Preview](https://drive.google.com/file/d/11p77mZVp7aZBbdh58hgjjjeoF4u6lYI8/view?usp=sharing
+.gif)
+
+Install backend dependencies:
 
 npm install
 Create and configure your .env file:
@@ -72,8 +70,6 @@ Create a file named .env in the root of the project.
 Add your email credentials to this file. See the section below for details.
 
 Start the backend server:
-
-Bash
 
 node server.js
 Your server should now be running on http://localhost:3000.
